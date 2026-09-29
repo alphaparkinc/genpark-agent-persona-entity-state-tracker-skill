@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-agent-persona-entity-state-tracker-skill"
+version = "1.0.0"
+description = "Persistent user profile and entity relation state tracker with slot filling and contradiction resolution"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
