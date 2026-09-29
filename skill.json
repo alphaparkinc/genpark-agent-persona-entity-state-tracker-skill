@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-persona-entity-state-tracker-skill",
+  "version": "1.0.0",
+  "description": "Persistent user profile and entity relation state tracker with slot filling and contradiction resolution",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "persona-tracker",
+    "user-modeling",
+    "entity-state",
+    "slot-filling",
+    "agent-memory",
+    "python-standard-library",
+    "agent-skills",
+    "knowledge-graph",
+    "dialogue-state",
+    "state-machine"
+  ]
+}
